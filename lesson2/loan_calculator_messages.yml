@@ -1,0 +1,9 @@
+welcome: "Welcome to the loan calculator! We'll begin by collecting some
+information about your loan."
+loan_amount: "Please enter the loan amount: "
+annual_percentage_rate: "Please enter the Annual Percentage Rate (APR)
+(e.g. 5.5 for 5.5% interest)"
+loan_duration_years: "Please enter the loan duration in years: "
+error_positive: "Please enter a positive number."
+again: "Would you like another calculation? Please enter 'Yes' if so."
+goodbye: "Thank you for using the loan calculator. Goodbye!"
