@@ -1,0 +1,12 @@
+welcome: "Welcome to Rock-Paper-Scissors-Lizard-Spock!"
+valid_input: "Please enter your move. You can type 'r' or 'rock' for Rock,
+'p' or 'paper' for Paper, 'sc' or 'scissors' for Scissors, 'l' or 'lizard'
+for Lizard, and 'sp' or 'spock' for Spock (case insensitive): "
+input_error: "Please enter a valid move."
+moves: "You chose %{custom_data1} and the computer chose %{custom_data2}."
+player_win_round: "You win this round!"
+computer_win_round: "The computer wins this round."
+tie_round: "This round is a tie!"
+player_win_match: "You are the first to three wins and win the match!"
+computer_win_match: "The computer is the first to three wins and wins the match."
+thank_you: "Thank you for playing Rock-Paper-Scissors-Lizard-Spock!"

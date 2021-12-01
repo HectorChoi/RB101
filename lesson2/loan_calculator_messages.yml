@@ -2,8 +2,14 @@ welcome: "Welcome to the loan calculator! We'll begin by collecting some
 information about your loan."
 loan_amount: "Please enter the loan amount: "
 annual_percentage_rate: "Please enter the Annual Percentage Rate (APR)
-(e.g. 5.5 for 5.5% interest)"
+(e.g. 5.5 for 5.5%% interest)"
 loan_duration_years: "Please enter the loan duration in years: "
 error_positive: "Please enter a positive number."
-again: "Would you like another calculation? Please enter 'Yes' if so."
+error_non_negative: "Please enter a non-negative number."
+monthly_interest_rate: "The monthly interest rate is: %{custom_data}"
+loan_duration_months: "The loan duration in months is: %{custom_data}"
+monthly_payment: "The monthly payment due is: %{custom_data}."
+again: "Would you like another calculation? Please enter 'Yes' or 'y' if so,
+'No' or 'n' if not (case insensitive)."
+again_error: "Please enter 'Yes', 'y', 'No', or 'n' (case insensitive)."
 goodbye: "Thank you for using the loan calculator. Goodbye!"
